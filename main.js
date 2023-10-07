@@ -126,7 +126,7 @@ const timer = () => {
 				untypedfield.textContent = 'タイムアップ！';
 			}, 100);
 		}
-	}, 6000);
+	}, 1000);
 };
 
 
